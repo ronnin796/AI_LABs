@@ -1,1 +1,1 @@
-# AI_LABs
+# AI LAB activities
